@@ -1,3 +1,7 @@
+html{
+  scroll-behavior: smooth;
+  cursor: url(../public/favicon.ico), auto;
+}
 #root{
   background: repeat url("./assets/backgroundSimple.jpg");
 }
