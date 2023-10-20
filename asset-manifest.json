@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa88c2c9.css",
-    "main.js": "/static/js/main.8af83f73.js",
-    "static/media/backgroundSimple.jpg": "/static/media/backgroundSimple.fd73c4bf53585339c526.jpg",
-    "static/media/koreanRoof4.jpg": "/static/media/koreanRoof4.1c5dbe16156d4b53dd32.jpg",
-    "static/media/koreanRoof6.jpg": "/static/media/koreanRoof6.f2c1e1bec534bcea5c7b.jpg",
-    "static/media/koreanRoof2.jpg": "/static/media/koreanRoof2.bd95837cc75524d09d05.jpg",
-    "index.html": "/index.html",
-    "main.fa88c2c9.css.map": "/static/css/main.fa88c2c9.css.map",
-    "main.8af83f73.js.map": "/static/js/main.8af83f73.js.map"
+    "main.css": "/goldencity/static/css/main.47c6a1b6.css",
+    "main.js": "/goldencity/static/js/main.fc1968a1.js",
+    "static/media/backgroundSimple.jpg": "/goldencity/static/media/backgroundSimple.fd73c4bf53585339c526.jpg",
+    "static/media/koreanRoof4.jpg": "/goldencity/static/media/koreanRoof4.1c5dbe16156d4b53dd32.jpg",
+    "static/media/koreanRoof6.jpg": "/goldencity/static/media/koreanRoof6.f2c1e1bec534bcea5c7b.jpg",
+    "static/media/koreanRoof2.jpg": "/goldencity/static/media/koreanRoof2.bd95837cc75524d09d05.jpg",
+    "index.html": "/goldencity/index.html",
+    "static/media/favicon.ico": "/goldencity/static/media/favicon.fa6c866d0dd5cb323d31.ico",
+    "main.47c6a1b6.css.map": "/goldencity/static/css/main.47c6a1b6.css.map",
+    "main.fc1968a1.js.map": "/goldencity/static/js/main.fc1968a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.fa88c2c9.css",
-    "static/js/main.8af83f73.js"
+    "static/css/main.47c6a1b6.css",
+    "static/js/main.fc1968a1.js"
   ]
 }
